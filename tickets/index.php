@@ -79,7 +79,7 @@
   <body bgcolor="black";>
     <div class="formDiv">
       <img src="" alt="">
-      <form class="form" action="members.php" method="POST">
+      <form class="form" action="index.php" method="POST">
         <input class="input"type="password" name="password">
       </form>
     </div>
